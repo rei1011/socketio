@@ -8,5 +8,5 @@ yarn install
 yarn start
 ```
 
-複数ウィンドウからhttp://localhost:3000/ へ接続
+複数ウィンドウからhttp://localhost:3000/ へ接続すると、   
 ウィンドウ間でメッセージが共有される
